@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "ITEM_0001",
+      "name": "sword",
+      "description": "",
+      "tags": ["weapon"],
+      "properties": {},
+      "stackable": false,
+      "tool_item": false,
+      "tool_item_range": 1,
+      "tool_item_script_mode": "entity",
+      "droppable": false,
+      "usable": false
+    }
+  ],
+  "localized": false
+}
