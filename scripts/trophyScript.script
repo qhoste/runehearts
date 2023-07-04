@@ -1,1 +1,3 @@
-display_message("Hello, world!");
+heal_entity(player, 25);
+remove_entity(entity["tree"]);
+replace_navigation("treetile", PENDING, WALK_AND_INTERACT);

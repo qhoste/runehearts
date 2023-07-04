@@ -1,0 +1,3 @@
+heal_entity(player, 25);
+add_object("trophy", "trophyspawn", "asd");
+replace_navigation("trophy", WALK_AND_INTERACT, INTERACT_ONLY);

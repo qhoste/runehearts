@@ -1,2 +1,2 @@
 show_widget("healthbar");
-load_map("hell", coord[18, 25, 0], SOUTH);
+load_map("lobby", coord[-2, 0, 0], SOUTH);
