@@ -1,2 +1,2 @@
-# Open-source
-The game files are open source, you can improve it but never sell it without my name removed.
+# Runehearts
+Runehearts is an RPG game where you must fight your way through 3 unique dungeons to reach a bloodthirsty boss?
